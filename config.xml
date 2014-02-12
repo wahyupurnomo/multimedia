@@ -18,6 +18,7 @@
     </author>
     <!-- We'll include the Media plugin as an example -->
    <gap:plugin name="org.apache.cordova.media" />
+   <gap:plugin name="com.dawsonloudon.videoplayer" />
 
 
 </widget>
