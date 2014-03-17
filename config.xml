@@ -17,7 +17,7 @@
         Wahyu Purnomo 
     </author>
     <!-- We'll include the Media plugin as an example -->
-<gap:plugin name="Media" value="org.apache.cordova.core.AudioHandler" />
+<feature name="http://api.phonegap.com/1.0/media"/>
 
 
 
